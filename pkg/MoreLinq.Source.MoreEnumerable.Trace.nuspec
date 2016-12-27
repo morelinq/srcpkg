@@ -26,6 +26,7 @@
                 <dependency id="MoreLinq.Source.MoreEnumerable.Pipe" version="[1.0.1,2)" />
             </group>
         </dependencies>
+        <developmentDependency>true</developmentDependency>
     </metadata>
     <files>
         <file src="..\lib\MoreLinq\Trace.cs" target="content\net20\MoreLinq\MoreEnumerable.Trace.cs" />

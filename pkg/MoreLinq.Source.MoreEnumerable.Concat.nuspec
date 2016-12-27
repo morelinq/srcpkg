@@ -26,6 +26,7 @@
                 <dependency id="MoreLinq.Source.MoreEnumerable.Prepend" version="[1.0.1,2)" />
             </group>
         </dependencies>
+        <developmentDependency>true</developmentDependency>
     </metadata>
     <files>
         <file src="..\lib\MoreLinq\Concat.cs" target="content\net20\MoreLinq\MoreEnumerable.Concat.cs" />

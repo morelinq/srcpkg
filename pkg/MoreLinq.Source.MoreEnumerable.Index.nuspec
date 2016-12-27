@@ -20,6 +20,7 @@
                 <dependency id="LinqBridge.Embedded" />
             </group>
         </dependencies>
+        <developmentDependency>true</developmentDependency>
     </metadata>
     <files>
         <file src="..\lib\MoreLinq\Index.cs" target="content\net20\MoreLinq\MoreEnumerable.Index.cs" />
