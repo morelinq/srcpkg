@@ -49,6 +49,7 @@
                 <dependency id="MoreLinq.Source.MoreEnumerable.ToDelimitedString" version="[1.1.1,2)" />
                 <dependency id="MoreLinq.Source.MoreEnumerable.ToHashSet" version="[1,2)" />
                 <dependency id="MoreLinq.Source.MoreEnumerable.Trace" version="[1.0.2,2)" />
+                <dependency id="MoreLinq.Source.MoreEnumerable.Zip" version="[1.0.1,2)" />
                 <dependency id="MoreLinq.Source.MoreEnumerable.ZipLongest" version="[1.0.1,2)" />
                 <dependency id="MoreLinq.Source.MoreEnumerable.ZipShortest" version="[1,2)" />
             </group>
@@ -90,6 +91,7 @@
                 <!-- Excluded as HashSet<T> is not available in .NET 2.0
                 <dependency id="MoreLinq.Source.MoreEnumerable.ToHashSet" version="[1,2)" />-->
                 <dependency id="MoreLinq.Source.MoreEnumerable.Trace" version="[1.0.2,2)" />
+                <dependency id="MoreLinq.Source.MoreEnumerable.Zip" version="[1.0.1,2)" />
                 <dependency id="MoreLinq.Source.MoreEnumerable.ZipLongest" version="[1.0.1,2)" />
                 <dependency id="MoreLinq.Source.MoreEnumerable.ZipShortest" version="[1,2)" />
             </group>

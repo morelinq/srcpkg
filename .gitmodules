@@ -1,3 +1,6 @@
 [submodule "lib"]
 	path = lib
 	url = https://github.com/morelinq/MoreLINQ
+[submodule "lib1"]
+	path = lib1
+	url = https://github.com/morelinq/MoreLINQ
