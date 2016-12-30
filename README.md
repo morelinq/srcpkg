@@ -38,7 +38,7 @@ directly into a C# project:
   - [ToHashSet](https://www.nuget.org/packages/MoreLinq.Source.MoreEnumerable.ToHashSet)
   - [Trace](https://www.nuget.org/packages/MoreLinq.Source.MoreEnumerable.Trace)
   - [ZipLongest](https://www.nuget.org/packages/MoreLinq.Source.MoreEnumerable.ZipLongest)
-  - [ZipShortest](https://www.nuget.org/packages/MoreLinq.Source.MoreEnumerable.ZipShortest)
+  - [Zip](https://www.nuget.org/packages/MoreLinq.Source.MoreEnumerable.Zip)
 
 
 [morelinq]: https://morelinq.github.io/
