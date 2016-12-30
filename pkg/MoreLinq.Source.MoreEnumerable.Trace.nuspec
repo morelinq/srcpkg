@@ -2,7 +2,7 @@
 <package>
     <metadata>
         <id>MoreLinq.Source.MoreEnumerable.Trace</id>
-        <version>1.0.2</version>
+        <version>1.0.3</version>
         <title>MoreLINQ's Trace for C# Sequences (Source)</title>
         <authors>MoreLINQ Developers</authors>
         <owners>Jon Skeet, Atif Aziz</owners>
@@ -16,14 +16,14 @@
         <releaseNotes>Dependency version update</releaseNotes>
         <dependencies>
             <group>
-                <dependency id="MoreLinq.Source.MoreEnumerable.Pipe" version="[1.0.1,2)" />
+                <dependency id="MoreLinq.Source.MoreEnumerable.Pipe" version="[1.0.2,2)" />
             </group>
             <group targetFramework="net35">
-                <dependency id="MoreLinq.Source.MoreEnumerable.Pipe" version="[1.0.1,2)" />
+                <dependency id="MoreLinq.Source.MoreEnumerable.Pipe" version="[1.0.2,2)" />
             </group>
             <group targetFramework="net20">
                 <dependency id="LinqBridge.Embedded" version="1.3.0" />
-                <dependency id="MoreLinq.Source.MoreEnumerable.Pipe" version="[1.0.1,2)" />
+                <dependency id="MoreLinq.Source.MoreEnumerable.Pipe" version="[1.0.2,2)" />
             </group>
         </dependencies>
         <developmentDependency>true</developmentDependency>
