@@ -22,7 +22,7 @@
                 <dependency id="MoreLinq.Source.MoreEnumerable.Prepend" version="[1.0.1,2)" />
             </group>
             <group targetFramework="net20">
-                <dependency id="LinqBridge.Embedded" />
+                <dependency id="LinqBridge.Embedded" version="1.3.0" />
                 <dependency id="MoreLinq.Source.MoreEnumerable.Prepend" version="[1.0.1,2)" />
             </group>
         </dependencies>
