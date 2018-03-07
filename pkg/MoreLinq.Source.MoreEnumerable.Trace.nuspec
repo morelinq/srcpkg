@@ -2,7 +2,7 @@
 <package>
     <metadata>
         <id>MoreLinq.Source.MoreEnumerable.Trace</id>
-        <version>1.0.2</version>
+        <version>1.0.3</version>
         <title>MoreLINQ's Trace for C# Sequences (Source)</title>
         <authors>MoreLINQ Developers</authors>
         <owners>Jon Skeet, Atif Aziz</owners>
@@ -13,7 +13,7 @@
         <description>C# source implementation that enhances LINQ to Objects with the method Trace. Traces the elements of a source sequence for diagnostics.</description>
         <language>en-US</language>
         <tags>linq extensions</tags>
-        <releaseNotes>Dependency version update</releaseNotes>
+        <releaseNotes>This release marks just the package as being a development dependency.</releaseNotes>
         <dependencies>
             <group>
                 <dependency id="MoreLinq.Source.MoreEnumerable.Pipe" version="[1.0.1,2)" />

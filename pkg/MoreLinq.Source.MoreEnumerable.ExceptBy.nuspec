@@ -2,7 +2,7 @@
 <package>
     <metadata>
         <id>MoreLinq.Source.MoreEnumerable.ExceptBy</id>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <title>MoreLINQ's ExceptBy for C# Sequences (Source)</title>
         <authors>MoreLINQ Developers</authors>
         <owners>Jon Skeet, Atif Aziz</owners>
@@ -13,6 +13,7 @@
         <description>C# source implementation that enhances LINQ to Objects with the method ExceptBy. Returns the set of elements in the first sequence which aren't in the second sequence, according to a given key selector.</description>
         <language>en-US</language>
         <tags>linq extensions</tags>
+        <releaseNotes>This release marks just the package as being a development dependency.</releaseNotes>
         <developmentDependency>true</developmentDependency>
     </metadata>
     <files>
